@@ -13,13 +13,9 @@
 const acharya = {
   pronouns: "she" | "her",
   code: [Javascript, C, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+  libraries: [Pandas, NumPy, matplotlib, seaborn, Pytorch, Keras, Tensorflow],
+  tools: [Docker, Heroku]
+
  challenge: "I am doing the #100DaysOfCode challenge focused on python and Ml"
 }
 ```
