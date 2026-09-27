@@ -12,9 +12,9 @@
 ```javascript
 const acharya = {
   pronouns: "she" | "her",
-  code: [Javascript, C, HTML, CSS, Python, Java],
+  code: [Javascript, C, HTML, CSS, Python, Java, Sql],
   libraries: [Pandas, NumPy, matplotlib, seaborn, Pytorch, Keras, Tensorflow],
-  tools: [Docker, Heroku]
+  tools: [Docker, AWS]
 
  challenge: "I am doing the #100DaysOfCode challenge focused on python and Ml"
 }
